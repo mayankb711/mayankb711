@@ -4,7 +4,7 @@
 
 
  
-  - [Active Directory Home Lab](https://githb.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab]
   
  
 
